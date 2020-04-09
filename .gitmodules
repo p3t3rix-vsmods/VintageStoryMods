@@ -1,0 +1,3 @@
+[submodule ".\\Mods\\GraveMod"]
+	path = .\\Mods\\GraveMod
+	url = git@github.com:p3t3rix/VsGraveMod.git
