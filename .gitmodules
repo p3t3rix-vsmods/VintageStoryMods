@@ -1,0 +1,9 @@
+[submodule "Mods/GraveMod"]
+	path = Mods/GraveMod
+	url = https://github.com/p3t3rix/VsGraveMod.git
+[submodule "Mods/DebugMod"]
+	path = Mods/DebugMod
+	url = https://github.com/p3t3rix/VsDebugMod.git
+[submodule "Mods/Foundation"]
+	path = Mods/Foundation
+	url = https://github.com/p3t3rix/VsFoundation.git
