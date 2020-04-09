@@ -1,6 +1,0 @@
-[submodule ".\\Mods\\GraveMod"]
-	path = .\\Mods\\GraveMod
-	url = git@github.com:p3t3rix/VsGraveMod.git
-[submodule ".\\Mods\\DebugMod"]
-	path = .\\Mods\\DebugMod
-	url = git@github.com:p3t3rix/VsDebugMod.git
