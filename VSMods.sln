@@ -1,3 +1,4 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
@@ -9,6 +10,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation", "Mods\Foundation\Foundation.csproj", "{935CF208-D4E3-4959-951C-DF6C7123855E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toggly", "Mods\Toggly\Toggly.csproj", "{83FA9DF0-75F5-427D-86A5-78F7DEC0C386}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProspectorInfo", "Mods\ProspectorInfo\ProspectorInfo.csproj", "{1FF2ADBB-7116-498C-A24D-0339B3ECC1FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +44,12 @@ Global
 		{83FA9DF0-75F5-427D-86A5-78F7DEC0C386}.Release x64|Any CPU.Build.0 = Release|Any CPU
 		{83FA9DF0-75F5-427D-86A5-78F7DEC0C386}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83FA9DF0-75F5-427D-86A5-78F7DEC0C386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF2ADBB-7116-498C-A24D-0339B3ECC1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF2ADBB-7116-498C-A24D-0339B3ECC1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF2ADBB-7116-498C-A24D-0339B3ECC1FC}.Release x64|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF2ADBB-7116-498C-A24D-0339B3ECC1FC}.Release x64|Any CPU.Build.0 = Debug|Any CPU
+		{1FF2ADBB-7116-498C-A24D-0339B3ECC1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF2ADBB-7116-498C-A24D-0339B3ECC1FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

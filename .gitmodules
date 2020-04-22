@@ -10,3 +10,6 @@
 [submodule "Mods/Toggly"]
 	path = Mods/Toggly
 	url = https://github.com/p3t3rix/VsToggly.git
+[submodule "Mods/ProspectorInfo"]
+	path = Mods/ProspectorInfo
+	url = https://github.com/p3t3rix/VsProspectorInfo.git
