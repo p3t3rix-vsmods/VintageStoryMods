@@ -4,9 +4,6 @@
 [submodule "Mods/DebugMod"]
 	path = Mods/DebugMod
 	url = https://github.com/p3t3rix/VsDebugMod.git
-[submodule "Mods/Foundation"]
-	path = Mods/Foundation
-	url = https://github.com/p3t3rix/VsFoundation.git
 [submodule "Mods/Toggly"]
 	path = Mods/Toggly
 	url = https://github.com/p3t3rix/VsToggly.git
