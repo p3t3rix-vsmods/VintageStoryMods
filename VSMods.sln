@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraveMod", "Mods\GraveMod\G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DebugMod", "Mods\DebugMod\DebugMod.csproj", "{FE3F9FB7-381B-4D90-86BC-445D5015BA4C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation", "Mods\Foundation\Foundation.csproj", "{935CF208-D4E3-4959-951C-DF6C7123855E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toggly", "Mods\Toggly\Toggly.csproj", "{83FA9DF0-75F5-427D-86A5-78F7DEC0C386}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProspectorInfo", "Mods\ProspectorInfo\ProspectorInfo.csproj", "{1FF2ADBB-7116-498C-A24D-0339B3ECC1FC}"
@@ -32,12 +30,6 @@ Global
 		{FE3F9FB7-381B-4D90-86BC-445D5015BA4C}.Release x64|Any CPU.Build.0 = Release|Any CPU
 		{FE3F9FB7-381B-4D90-86BC-445D5015BA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE3F9FB7-381B-4D90-86BC-445D5015BA4C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{935CF208-D4E3-4959-951C-DF6C7123855E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{935CF208-D4E3-4959-951C-DF6C7123855E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{935CF208-D4E3-4959-951C-DF6C7123855E}.Release x64|Any CPU.ActiveCfg = Release|Any CPU
-		{935CF208-D4E3-4959-951C-DF6C7123855E}.Release x64|Any CPU.Build.0 = Release|Any CPU
-		{935CF208-D4E3-4959-951C-DF6C7123855E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{935CF208-D4E3-4959-951C-DF6C7123855E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{83FA9DF0-75F5-427D-86A5-78F7DEC0C386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{83FA9DF0-75F5-427D-86A5-78F7DEC0C386}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83FA9DF0-75F5-427D-86A5-78F7DEC0C386}.Release x64|Any CPU.ActiveCfg = Release|Any CPU
